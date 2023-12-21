@@ -75,12 +75,14 @@
 .aligned-text {
   display: block;
   letter-spacing: 30px;
+  line-height: 100%;
 }
 .aligned-text_left{
   text-align: left;
 }
 .aligned-text_center {
   text-align: center;
+  margin: 20px 0;
 }
 .aligned-text_right {
   text-align: right;
